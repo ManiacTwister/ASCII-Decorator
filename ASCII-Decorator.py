@@ -1,6 +1,5 @@
 import sublime, sublime_plugin, os, re, sys
 from pyfiglet import Figlet
-import os, sys
 
 sys.path.append(os.path.join(sublime.packages_path(), 'Default'))
 import comment
